@@ -1,0 +1,49 @@
+_repo: The-picnic-party-b-A-story-for-little-folks_73209
+_version: 0.0.1
+contributor:
+  engraver:
+    agent_name: Andrew, John
+    alias: Andrew, J. (John)
+    birthdate: 1815
+    deathdate: 1870
+    gutenberg_agent_id: '25310'
+    url: http://www.gutenberg.org/2009/agents/25310
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia:
+    - https://en.wikipedia.org/wiki/William_Taylor_Adams
+    - http://www.gutenberg.org/ebooks/author/5655
+description: ''
+gutenberg_issued: '2024-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73209'
+language: en
+pgterms:marc905: 20230815134439optic
+pgterms:marc906: '1862'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aBoston :$bLee and Shepard, $c1862, pubdate 1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Selfishness -- Juvenile fiction'
+- !lcsh 'Picnics -- Juvenile fiction'
+- !lcsh 'Laziness -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The picnic party : $b A story for little folks'
+url: http://www.gutenberg.org/ebooks/73209
