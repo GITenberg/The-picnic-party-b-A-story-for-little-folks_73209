@@ -8,6 +8,9 @@ contributor:
     deathdate: 1870
     gutenberg_agent_id: '25310'
     url: http://www.gutenberg.org/2009/agents/25310
+covers:
+- cover_type: archival
+  image_path: 73209-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Optic, Oliver
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/William_Taylor_Adams
     - http://www.gutenberg.org/ebooks/author/5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73209#The-picnic-party-b-A-story-for-little-folks
 gutenberg_issued: '2024-03-20'
 gutenberg_type: Text
 identifiers:
